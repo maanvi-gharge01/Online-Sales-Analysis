@@ -6,7 +6,7 @@ As a Data Analyst, I was tasked with analyzing online sales data to uncover acti
 
 ## Key Business Questions
 
-### 🧍 Customer Behavior & Sales Trends
+### Customer Behavior & Sales Trends
 - How do age and gender impact total sales and purchasing behavior?
 - What is the average purchase value per customer segment (age/gender)?
 - What percentage of customers make repeat purchases, and how much revenue do they generate?
