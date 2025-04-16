@@ -24,13 +24,13 @@ As a Data Analyst, I was tasked with analyzing online sales data to uncover acti
 - Do customers buy more during specific months, days, or times?
 
 ---
-Methodology
-The analysis was conducted using Python in a Jupyter Notebook environment. Key steps included:
+### Methodology
+- The analysis was conducted using Python in a Jupyter Notebook environment. Key steps included:
 
-Data Cleaning & Preparation: Handled missing values, reformatted columns, and prepared data types using Pandas and NumPy.
+- Data Cleaning & Preparation: Handled missing values, reformatted columns, and prepared data types using Pandas and NumPy.
 
-Data Manipulation: Created new features, grouped data by segments (age, gender, time), and calculated KPIs such as repeat rate and average order value.
+- Data Manipulation: Created new features, grouped data by segments (age, gender, time), and calculated KPIs such as repeat rate and average order value.
 
-Visualization: Used Seaborn and Matplotlib to create insightful charts that support business storytelling.
+- Visualization: Used Seaborn and Matplotlib to create insightful charts that support business storytelling.
 
 
